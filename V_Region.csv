@@ -1,8 +1,8 @@
 ,Provincia,Capital,Comuna,Latitude,Longitude
 1,Isla de Pascua,Hanga Roa, Isla de Pascua,-27.125959350000002,-109.3495764220578
-2,Los Andes,Los Andes, Calle Larga,-32.833329,-70.688845
+2,Los Andes,Los Andes, Calle Larga,-32.8552685,-70.6260407
 3,Los Andes,Los Andes, Los Andes,-32.8336867,-70.5981609
-4,Los Andes,Los Andes, Rinconada,-32.8725135,-70.7125102123506
+4,Los Andes,Los Andes, Rinconada,-32.833329,-70.688845
 5,Los Andes,Los Andes, San Esteban,-32.7990544,-70.5795811
 6,Petorca,La Ligua, Cabildo,-32.4265909,-71.0663299
 7,Petorca,La Ligua, La Ligua,-32.4496375,-71.2316695
@@ -18,10 +18,10 @@
 17,San Antonio,San Antonio, Cartagena,-33.5468491,-71.6031708
 18,San Antonio,San Antonio, El Quisco,-33.400311,-71.693998
 19,San Antonio,San Antonio, El Tabo,-33.4545847,-71.669107
-20,San Antonio,San Antonio, San Antonio,-32.841742,-70.953908
+20,San Antonio,San Antonio, San Antonio,-33.5808615,-71.6132377
 21,San Antonio,San Antonio, Santo Domingo,-33.78623435,-71.67572266062791
 22,San Felipe,San Felipe, Catemu,-32.7784214,-70.9633428
-23,San Felipe,San Felipe, Llay-Llay,-32.88808305,-70.8870505708328
+23,San Felipe,San Felipe, Llay-Llay,-32.841742,-70.953908
 24,San Felipe,San Felipe, Panquehue,-32.7705769,-70.8361303
 25,San Felipe,San Felipe, Putaendo,-32.6260768,-70.7167642
 26,San Felipe,San Felipe, San Felipe,-32.7507173,-70.7250903
